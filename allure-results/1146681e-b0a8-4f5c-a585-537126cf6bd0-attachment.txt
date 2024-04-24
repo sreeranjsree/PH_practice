@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@id='add-payment-modal-add']\"}\n  (Session info: chrome=124.0.6367.61)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF68FFE1522+60802]\n\t(No symbol) [0x00007FF68FF5AC22]\n\t(No symbol) [0x00007FF68FE17CE4]\n\t(No symbol) [0x00007FF68FE66D4D]\n\t(No symbol) [0x00007FF68FE66E1C]\n\t(No symbol) [0x00007FF68FEACE37]\n\t(No symbol) [0x00007FF68FE8ABBF]\n\t(No symbol) [0x00007FF68FEAA224]\n\t(No symbol) [0x00007FF68FE8A923]\n\t(No symbol) [0x00007FF68FE58FEC]\n\t(No symbol) [0x00007FF68FE59C21]\n\tGetHandleVerifier [0x00007FF6902E413D+3217821]\n\tGetHandleVerifier [0x00007FF6903260D7+3488055]\n\tGetHandleVerifier [0x00007FF69031F05F+3459263]\n\tGetHandleVerifier [0x00007FF69009B866+823494]\n\t(No symbol) [0x00007FF68FF65FBF]\n\t(No symbol) [0x00007FF68FF60EE4]\n\t(No symbol) [0x00007FF68FF61072]\n\t(No symbol) [0x00007FF68FF518C4]\n\tBaseThreadInitThunk [0x00007FFE9D787344+20]\n\tRtlUserThreadStart [0x00007FFE9DEC26B1+33]\n"
+}

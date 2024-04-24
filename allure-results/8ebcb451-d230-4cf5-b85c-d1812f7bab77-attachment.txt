@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[normalize-space()='Credit or debit card']\"}\n  (Session info: chrome=124.0.6367.60)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF61ED1F922+3045234]\n\t(No symbol) [0x00007FF61E9C3652]\n\t(No symbol) [0x00007FF61E887564]\n\t(No symbol) [0x00007FF61E8D5F9D]\n\t(No symbol) [0x00007FF61E8D606C]\n\t(No symbol) [0x00007FF61E91BDD7]\n\t(No symbol) [0x00007FF61E8F9DEF]\n\t(No symbol) [0x00007FF61E9191C4]\n\t(No symbol) [0x00007FF61E8F9B53]\n\t(No symbol) [0x00007FF61E8C813C]\n\t(No symbol) [0x00007FF61E8C8D71]\n\tGetHandleVerifier [0x00007FF61ED4E89D+3237613]\n\tGetHandleVerifier [0x00007FF61ED90BA7+3508727]\n\tGetHandleVerifier [0x00007FF61ED8976F+3478975]\n\tGetHandleVerifier [0x00007FF61EAFF1C6+815126]\n\t(No symbol) [0x00007FF61E9CED0F]\n\t(No symbol) [0x00007FF61E9C9854]\n\t(No symbol) [0x00007FF61E9C99E2]\n\t(No symbol) [0x00007FF61E9BA574]\n\tBaseThreadInitThunk [0x00007FFE9D787344+20]\n\tRtlUserThreadStart [0x00007FFE9DEC26B1+33]\n"
+}

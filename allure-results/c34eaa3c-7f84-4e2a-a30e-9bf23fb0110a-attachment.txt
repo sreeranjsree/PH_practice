@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class='card-body px-3 pt-2 pb-3']//p[@class='card-title d-none mb-1 d-lg-block']"
+}

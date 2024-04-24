@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@id='ph-company-logo']\"}\n  (Session info: chrome=124.0.6367.61)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6945C1522+60802]\n\t(No symbol) [0x00007FF69453AC22]\n\t(No symbol) [0x00007FF6943F7CE4]\n\t(No symbol) [0x00007FF694446D4D]\n\t(No symbol) [0x00007FF694446E1C]\n\t(No symbol) [0x00007FF69448CE37]\n\t(No symbol) [0x00007FF69446ABBF]\n\t(No symbol) [0x00007FF69448A224]\n\t(No symbol) [0x00007FF69446A923]\n\t(No symbol) [0x00007FF694438FEC]\n\t(No symbol) [0x00007FF694439C21]\n\tGetHandleVerifier [0x00007FF6948C413D+3217821]\n\tGetHandleVerifier [0x00007FF6949060D7+3488055]\n\tGetHandleVerifier [0x00007FF6948FF05F+3459263]\n\tGetHandleVerifier [0x00007FF69467B866+823494]\n\t(No symbol) [0x00007FF694545FBF]\n\t(No symbol) [0x00007FF694540EE4]\n\t(No symbol) [0x00007FF694541072]\n\t(No symbol) [0x00007FF6945318C4]\n\tBaseThreadInitThunk [0x00007FFE9D787344+20]\n\tRtlUserThreadStart [0x00007FFE9DEC26B1+33]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//body[1]/div[5]/div[2]/div[1]/app-catalog-browser-popup[1]/table[1]/tr[4]/td[6]/button[1]\"}\n  (Session info: chrome=124.0.6367.60)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF79255F922+3045234]\n\t(No symbol) [0x00007FF792203652]\n\t(No symbol) [0x00007FF7920C7564]\n\t(No symbol) [0x00007FF792115F9D]\n\t(No symbol) [0x00007FF79211606C]\n\t(No symbol) [0x00007FF79215BDD7]\n\t(No symbol) [0x00007FF792139DEF]\n\t(No symbol) [0x00007FF7921591C4]\n\t(No symbol) [0x00007FF792139B53]\n\t(No symbol) [0x00007FF79210813C]\n\t(No symbol) [0x00007FF792108D71]\n\tGetHandleVerifier [0x00007FF79258E89D+3237613]\n\tGetHandleVerifier [0x00007FF7925D0BA7+3508727]\n\tGetHandleVerifier [0x00007FF7925C976F+3478975]\n\tGetHandleVerifier [0x00007FF79233F1C6+815126]\n\t(No symbol) [0x00007FF79220ED0F]\n\t(No symbol) [0x00007FF792209854]\n\t(No symbol) [0x00007FF7922099E2]\n\t(No symbol) [0x00007FF7921FA574]\n\tBaseThreadInitThunk [0x00007FFE9D787344+20]\n\tRtlUserThreadStart [0x00007FFE9DEC26B1+33]\n"
+}

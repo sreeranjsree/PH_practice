@@ -1,0 +1,3 @@
+{
+  "url": "https://dev-cc-login.princesshouse.com/"
+}

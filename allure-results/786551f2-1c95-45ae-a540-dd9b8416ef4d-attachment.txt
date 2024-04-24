@@ -1,0 +1,44 @@
+{
+  "id": {
+    "sessionId": "3618f5d0a9f71bc1ee6a20d4f66495aa",
+    "elementId": "f.12092ACDA800F837311AEA453B6919F8.d.A9024DC111ADAB0F7B7CFDB048DAEB59.e.325",
+    "element-6066-11e4-a52e-4f735466cecf": "f.12092ACDA800F837311AEA453B6919F8.d.A9024DC111ADAB0F7B7CFDB048DAEB59.e.325",
+    "selector": "//iframe[@id='braintree-hosted-field-expirationDate']",
+    "parent": {
+      "sessionId": "3618f5d0a9f71bc1ee6a20d4f66495aa",
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "124.0.6367.61",
+        "chrome": {
+          "chromedriverVersion": "124.0.6367.78 (a087f2dd364ddd58b9c016ef1bf563d2bc138711-refs/branch-heads/6367@{#954})",
+          "userDataDir": "C:\\Users\\P10\\AppData\\Local\\Temp\\scoped_dir5288_16881221"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:56982"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true,
+        "wdio:driverPID": 5288
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}

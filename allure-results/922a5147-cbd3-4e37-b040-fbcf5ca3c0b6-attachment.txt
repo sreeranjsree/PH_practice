@@ -1,0 +1,47 @@
+{
+  "id": {
+    "sessionId": "11a4bfeabdbd9670e6cbf4627bee84f9",
+    "error": {
+      "error": "no such element",
+      "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//iframe[@id='braintree-hosted-field-number']\"}\n  (Session info: chrome=124.0.6367.61)",
+      "stacktrace": "\tGetHandleVerifier [0x00007FF6BCE31522+60802]\n\t(No symbol) [0x00007FF6BCDAAC22]\n\t(No symbol) [0x00007FF6BCC67CE4]\n\t(No symbol) [0x00007FF6BCCB6D4D]\n\t(No symbol) [0x00007FF6BCCB6E1C]\n\t(No symbol) [0x00007FF6BCCFCE37]\n\t(No symbol) [0x00007FF6BCCDABBF]\n\t(No symbol) [0x00007FF6BCCFA224]\n\t(No symbol) [0x00007FF6BCCDA923]\n\t(No symbol) [0x00007FF6BCCA8FEC]\n\t(No symbol) [0x00007FF6BCCA9C21]\n\tGetHandleVerifier [0x00007FF6BD13413D+3217821]\n\tGetHandleVerifier [0x00007FF6BD1760D7+3488055]\n\tGetHandleVerifier [0x00007FF6BD16F05F+3459263]\n\tGetHandleVerifier [0x00007FF6BCEEB866+823494]\n\t(No symbol) [0x00007FF6BCDB5FBF]\n\t(No symbol) [0x00007FF6BCDB0EE4]\n\t(No symbol) [0x00007FF6BCDB1072]\n\t(No symbol) [0x00007FF6BCDA18C4]\n\tBaseThreadInitThunk [0x00007FFE9D787344+20]\n\tRtlUserThreadStart [0x00007FFE9DEC26B1+33]\n"
+    },
+    "selector": "//iframe[@id='braintree-hosted-field-number']",
+    "parent": {
+      "sessionId": "11a4bfeabdbd9670e6cbf4627bee84f9",
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "124.0.6367.61",
+        "chrome": {
+          "chromedriverVersion": "124.0.6367.78 (a087f2dd364ddd58b9c016ef1bf563d2bc138711-refs/branch-heads/6367@{#954})",
+          "userDataDir": "C:\\Users\\P10\\AppData\\Local\\Temp\\scoped_dir2184_1827935386"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:57412"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true,
+        "wdio:driverPID": 2184
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
